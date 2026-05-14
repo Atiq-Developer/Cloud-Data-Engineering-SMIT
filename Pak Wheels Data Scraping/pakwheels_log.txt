@@ -1,0 +1,152 @@
+2026-05-15 00:00:10 : Logging Function Created
+2026-05-15 00:04:12 : Scraping Page 1
+2026-05-15 00:04:14 : Listings Found: 30
+2026-05-15 00:04:14 : Total Cars Collected: 30
+2026-05-15 00:04:16 : Scraping Page 2
+2026-05-15 00:04:19 : Listings Found: 37
+2026-05-15 00:04:19 : Total Cars Collected: 67
+2026-05-15 00:04:21 : Scraping Page 3
+2026-05-15 00:04:23 : Listings Found: 37
+2026-05-15 00:04:23 : Total Cars Collected: 104
+2026-05-15 00:04:25 : Scraping Page 4
+2026-05-15 00:04:27 : Listings Found: 37
+2026-05-15 00:04:27 : Total Cars Collected: 141
+2026-05-15 00:04:29 : Scraping Page 5
+2026-05-15 00:04:33 : Listings Found: 37
+2026-05-15 00:04:33 : Total Cars Collected: 178
+2026-05-15 00:04:35 : Scraping Page 6
+2026-05-15 00:04:45 : Listings Found: 37
+2026-05-15 00:04:46 : Total Cars Collected: 215
+2026-05-15 00:04:48 : Scraping Page 7
+2026-05-15 00:04:51 : Listings Found: 37
+2026-05-15 00:04:51 : Total Cars Collected: 252
+2026-05-15 00:04:53 : Scraping Page 8
+2026-05-15 00:04:55 : Listings Found: 37
+2026-05-15 00:04:55 : Total Cars Collected: 289
+2026-05-15 00:04:57 : Scraping Page 9
+2026-05-15 00:04:58 : Listings Found: 37
+2026-05-15 00:04:58 : Total Cars Collected: 326
+2026-05-15 00:05:00 : Scraping Page 10
+2026-05-15 00:05:03 : Listings Found: 37
+2026-05-15 00:05:03 : Total Cars Collected: 363
+2026-05-15 00:05:05 : Scraping Page 11
+2026-05-15 00:05:08 : Listings Found: 37
+2026-05-15 00:05:08 : Total Cars Collected: 400
+2026-05-15 00:05:10 : Scraping Page 12
+2026-05-15 00:05:12 : Listings Found: 37
+2026-05-15 00:05:12 : Total Cars Collected: 437
+2026-05-15 00:05:14 : Scraping Page 13
+2026-05-15 00:05:18 : Listings Found: 37
+2026-05-15 00:05:18 : Total Cars Collected: 474
+2026-05-15 00:05:20 : Scraping Page 14
+2026-05-15 00:05:23 : Listings Found: 37
+2026-05-15 00:05:23 : Total Cars Collected: 511
+2026-05-15 00:05:25 : Scraping Page 15
+2026-05-15 00:05:27 : Listings Found: 37
+2026-05-15 00:05:27 : Total Cars Collected: 548
+2026-05-15 00:05:29 : Scraping Page 16
+2026-05-15 00:05:32 : Listings Found: 37
+2026-05-15 00:05:32 : Total Cars Collected: 585
+2026-05-15 00:05:34 : Scraping Page 17
+2026-05-15 00:05:36 : Listings Found: 37
+2026-05-15 00:05:36 : Total Cars Collected: 622
+2026-05-15 00:05:38 : Scraping Page 18
+2026-05-15 00:05:40 : Listings Found: 37
+2026-05-15 00:05:40 : Total Cars Collected: 659
+2026-05-15 00:05:42 : Scraping Page 19
+2026-05-15 00:05:45 : Listings Found: 37
+2026-05-15 00:05:45 : Total Cars Collected: 696
+2026-05-15 00:05:47 : Scraping Page 20
+2026-05-15 00:05:49 : Listings Found: 37
+2026-05-15 00:05:49 : Total Cars Collected: 733
+2026-05-15 00:05:51 : Scraping Page 21
+2026-05-15 00:05:53 : Listings Found: 37
+2026-05-15 00:05:53 : Total Cars Collected: 770
+2026-05-15 00:05:55 : Scraping Page 22
+2026-05-15 00:05:58 : Listings Found: 37
+2026-05-15 00:05:58 : Total Cars Collected: 807
+2026-05-15 00:06:00 : Scraping Page 23
+2026-05-15 00:06:02 : Listings Found: 37
+2026-05-15 00:06:02 : Total Cars Collected: 844
+2026-05-15 00:06:04 : Scraping Page 24
+2026-05-15 00:06:06 : Listings Found: 37
+2026-05-15 00:06:07 : Total Cars Collected: 881
+2026-05-15 00:06:09 : Scraping Page 25
+2026-05-15 00:06:10 : Listings Found: 37
+2026-05-15 00:06:10 : Total Cars Collected: 918
+2026-05-15 00:06:12 : Scraping Page 26
+2026-05-15 00:06:14 : Listings Found: 37
+2026-05-15 00:06:14 : Total Cars Collected: 955
+2026-05-15 00:06:16 : Scraping Page 27
+2026-05-15 00:06:18 : Listings Found: 37
+2026-05-15 00:06:18 : Total Cars Collected: 992
+2026-05-15 00:06:20 : Scraping Page 28
+2026-05-15 00:06:23 : Listings Found: 37
+2026-05-15 00:06:23 : Total Cars Collected: 1029
+2026-05-15 00:06:25 : Scraping Page 29
+2026-05-15 00:06:27 : Listings Found: 37
+2026-05-15 00:06:27 : Total Cars Collected: 1066
+2026-05-15 00:06:29 : Scraping Page 30
+2026-05-15 00:06:31 : Listings Found: 37
+2026-05-15 00:06:31 : Total Cars Collected: 1103
+2026-05-15 00:06:33 : Scraping Page 31
+2026-05-15 00:06:35 : Listings Found: 37
+2026-05-15 00:06:35 : Total Cars Collected: 1140
+2026-05-15 00:06:37 : Scraping Page 32
+2026-05-15 00:06:40 : Listings Found: 37
+2026-05-15 00:06:40 : Total Cars Collected: 1177
+2026-05-15 00:06:42 : Scraping Page 33
+2026-05-15 00:06:44 : Listings Found: 37
+2026-05-15 00:06:44 : Total Cars Collected: 1214
+2026-05-15 00:06:46 : Scraping Page 34
+2026-05-15 00:06:49 : Listings Found: 37
+2026-05-15 00:06:49 : Total Cars Collected: 1251
+2026-05-15 00:06:51 : Scraping Page 35
+2026-05-15 00:06:53 : Listings Found: 37
+2026-05-15 00:06:53 : Total Cars Collected: 1288
+2026-05-15 00:06:55 : Scraping Page 36
+2026-05-15 00:06:58 : Listings Found: 37
+2026-05-15 00:06:58 : Total Cars Collected: 1325
+2026-05-15 00:07:00 : Scraping Page 37
+2026-05-15 00:07:02 : Listings Found: 37
+2026-05-15 00:07:02 : Total Cars Collected: 1362
+2026-05-15 00:07:04 : Scraping Page 38
+2026-05-15 00:07:06 : Listings Found: 37
+2026-05-15 00:07:06 : Total Cars Collected: 1399
+2026-05-15 00:07:08 : Scraping Page 39
+2026-05-15 00:07:10 : Listings Found: 37
+2026-05-15 00:07:10 : Total Cars Collected: 1436
+2026-05-15 00:07:12 : Scraping Page 40
+2026-05-15 00:07:15 : Listings Found: 37
+2026-05-15 00:07:15 : Total Cars Collected: 1473
+2026-05-15 00:07:17 : Scraping Page 41
+2026-05-15 00:07:19 : Listings Found: 37
+2026-05-15 00:07:19 : Total Cars Collected: 1510
+2026-05-15 00:07:21 : Scraping Page 42
+2026-05-15 00:07:24 : Listings Found: 37
+2026-05-15 00:07:24 : Total Cars Collected: 1547
+2026-05-15 00:07:26 : Scraping Page 43
+2026-05-15 00:07:28 : Listings Found: 37
+2026-05-15 00:07:29 : Total Cars Collected: 1584
+2026-05-15 00:07:31 : Scraping Page 44
+2026-05-15 00:07:33 : Listings Found: 37
+2026-05-15 00:07:33 : Total Cars Collected: 1621
+2026-05-15 00:07:35 : Scraping Page 45
+2026-05-15 00:07:37 : Listings Found: 37
+2026-05-15 00:07:37 : Total Cars Collected: 1658
+2026-05-15 00:07:39 : Scraping Page 46
+2026-05-15 00:07:41 : Listings Found: 37
+2026-05-15 00:07:41 : Total Cars Collected: 1695
+2026-05-15 00:07:43 : Scraping Page 47
+2026-05-15 00:07:45 : Listings Found: 37
+2026-05-15 00:07:45 : Total Cars Collected: 1732
+2026-05-15 00:07:47 : Scraping Page 48
+2026-05-15 00:07:49 : Listings Found: 37
+2026-05-15 00:07:49 : Total Cars Collected: 1769
+2026-05-15 00:07:51 : Scraping Page 49
+2026-05-15 00:07:53 : Listings Found: 37
+2026-05-15 00:07:53 : Total Cars Collected: 1806
+2026-05-15 00:07:55 : Scraping Page 50
+2026-05-15 00:07:57 : Listings Found: 37
+2026-05-15 00:07:57 : Total Cars Collected: 1843
+2026-05-15 00:12:11 :  CSV Saved: pakwheels_1000cars_20260515_001211.csv
