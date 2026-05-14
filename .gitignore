@@ -1,0 +1,17 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Anaconda
+anaconda_projects/
+
+# Logs
+*.log
+
+# Database
+*.db
+
+# Python cache
+__pycache__/
+
+# CSV large files (optional)
+# *.csv
